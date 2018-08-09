@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ListPreference
+        android:defaultValue="@string/pref_color_value_pink"
+        android:entries="@array/pref_colors_options"
+        android:entryValues="@array/pref_colors_values"
+        android:key="@string/pref_colors_key"
+        android:title="@string/pref_colors_label" />
+
+</PreferenceScreen>

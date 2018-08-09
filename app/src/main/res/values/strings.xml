@@ -1,0 +1,53 @@
+<resources>
+    <!--app level naming-->
+    <string name="app_name">PasswordSaver</string>
+
+    <string name="app_create_password_label">Create Password</string>
+
+    <!--EditView labels-->
+    <string name="label_acount">Account Info</string>
+    <string name="label_username">Username</string>
+    <string name="label_email">Email</string>
+    <string name="label_password">Password</string>
+    <string name="label_security">Security Level</string>
+    <string name="label_description">Description</string>
+    <string name="label_timestamp">Apr. 2018</string>
+
+    <!--EditView hints-->
+    <string name="hint_website">edit account information</string>
+    <string name="hint_username">edit username or email</string>
+    <string name="hint_email">edit email on profile</string>
+    <string name="hint_password">edit password</string>
+    <string name="hint_description">give a short note of the account</string>
+
+    <!--security levels-->
+    <string name="high_security">High</string>
+    <string name="med_security">Medium</string>
+    <string name="low_security">Low</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_save">Save</string>
+
+    <string name="add_string">Add</string>
+    <string name="update_string">Update</string>
+
+    <string name="sync_database">Sync database</string>
+    <string name="save_xls">Save to xlsx</string>
+    <string name="delete_duplicated">Check for duplication</string>
+
+    <!-- for the setting fragment-->
+    <string name="pref_colors_label">Background Color</string>
+
+    <string name="pref_color_label_white">White</string>
+    <string name="pref_color_label_pink">Pink</string>
+    <string name="pref_color_label_grey">Grey</string>
+    <string name="pref_color_label_yellow">Yellow</string>
+
+    <string name="pref_colors_key" translatable="false">backgroundcolor</string>
+
+    <string name="pref_color_value_white" translatable="false">white</string>
+    <string name="pref_color_value_pink" translatable="false">pink</string>
+    <string name="pref_color_value_grey" translatable="false">grey</string>
+    <string name="pref_color_value_yellow" translatable="false">yellow</string>
+
+</resources>

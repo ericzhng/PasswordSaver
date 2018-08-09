@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#0288D1</color>
+    <color name="colorPrimaryLight">#B3E5FC</color>
+    <color name="colorAccent">#ffd740</color>
+
+    <color name="white">#FFFFFF</color>
+
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+
+    <!--our detail accent colors -->
+    <color name="detail_accent_pane_background">#455A64</color>
+    <color name="detail_accent_label">#90A4AE</color>
+
+    <!-- the activated state color for a forecast list item -->
+    <color name="activated">#E0E0E0</color>
+
+    <color name="label_color">#905455</color>
+    <color name="value_color">#212121</color>
+
+    <color name="grey">#DCDCDC</color>
+    <color name="pink700">#ffc2185b</color>
+
+
+    <!-- colors for task priority selection -->
+    <color name="materialRed">#E74C3C</color>
+    <color name="materialOrange">#E67E22</color>
+    <color name="materialYellow">#F1C40F</color>
+
+
+    <color name="color_white">#FAFAFA</color>
+    <color name="color_pink">#FFC0CB</color>
+    <color name="color_grey">#DCDCDC</color>
+    <color name="color_yellow">#FFFF00</color>
+
+</resources>
